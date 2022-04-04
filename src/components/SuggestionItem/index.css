@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.suggestion-items {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.arrow-icon {
+  height: 30px;
+  width: 30px;
+}
+
+.button {
+  outline: none;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
